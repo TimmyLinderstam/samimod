@@ -1,0 +1,18 @@
+# 95001 - Lais
+
+# County Title
+title = c_lais
+
+# Settlements
+max_settlements = 2
+
+b_lais = tribal
+
+# Misc
+culture = lappish
+religion = finnish_pagan
+terrain = forest
+
+# History
+700.1.1={ culture = lappish }
+700.1.1={ religion = finnish_pagan }

@@ -1,0 +1,18 @@
+# 95002 - Sametestby
+
+# County Title
+title = c_sametestby
+
+# Settlements
+max_settlements = 1
+
+b_samevaara = tribal
+
+# Misc
+culture = lappish
+religion = finnish_pagan
+terrain = forest
+
+# History
+700.1.1={ culture = lappish }
+700.1.1={ religion = finnish_pagan }
