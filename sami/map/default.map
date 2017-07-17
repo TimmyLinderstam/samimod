@@ -1,6 +1,6 @@
 max_provinces = 1468
 definitions = "definition.csv"
-provinces = "provinces.bmp"
+provinces = "provincesold2.bmp"
 positions = "positions.txt"
 terrain = "terrain.bmp"
 rivers = "rivers.bmp"

@@ -469,29 +469,3 @@
 		death=yes
 	}
 }
-
-201001 = {
-	name="Luodwigevaara"
-	dynasty=29990001
-	religion="finnish_pagan"
-	culture="lappish"
-	700.1.1={
-		birth=yes
-	}
-	786.1.1={
-		death=yes
-	}
-}
-
-201002 = {
-	name="satatanamn"
-	dynasty=29990002
-	religion="finnish_pagan"
-	culture="lappish"
-	750.1.1={
-		birth=yes
-	}
-	790.1.1={
-		death=yes
-	}
-}

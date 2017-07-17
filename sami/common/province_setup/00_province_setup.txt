@@ -7095,3 +7095,13 @@
    max_settlements=7
    terrain=mountain
 }
+95001 = {
+   title=c_lais
+   max_settlements=1
+   terrain=mountain
+}
+95002 = {
+   title=c_sametestby
+   max_settlements=1
+   terrain=mountain
+}

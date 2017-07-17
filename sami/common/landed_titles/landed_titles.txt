@@ -11145,7 +11145,7 @@ e_scandinavia = {
 				}
 				b_odenpah = {
 				}
-				b_lais = {
+				b_laiss = {
 				}
 				b_vastseliina = {
 				}
@@ -11630,9 +11630,7 @@ e_scandinavia = {
 				lappish=Lais
 
 				b_lais = {
-
 				}
-
 			}
 
 			c_sametestby = {
@@ -11642,9 +11640,7 @@ e_scandinavia = {
 				lappish=Sametestby
 
 				b_samevaara = {
-
 				}
-
 			}
 
 			c_vasterbotten = {

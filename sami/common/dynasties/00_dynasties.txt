@@ -43457,15 +43457,3 @@
 	culture="persian"
 	religion="zoroastrian"
 }
-
-2999001={
-	name="Tjuggo" 
-	culture="lappish"
-	religion="finnish_pagan"
-}
-
-2999002={
-	name="Allalaaasd" 
-	culture="lappish"
-	religion="finnish_pagan"
-}
